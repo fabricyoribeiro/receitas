@@ -1,0 +1,3 @@
+json-server --watch -d 180 --host 192.168.1.114 db.json
+
+npx expo install expo-linear-gradient
